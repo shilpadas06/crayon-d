@@ -1,0 +1,176 @@
+
+ .product-team-solution-section {
+  background-color: #14122b; /* dark background to match the image */
+  color: #ffffff;
+}
+
+.product-team-solution-section .heading-label {
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.product-team-solution-section .highlight-yellow {
+  color: #f6c90e;
+}
+
+.product-team-solution-section .box {
+  background-color: #1e1c3a;
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  border: 1px solid #2c294d;
+  color: #ffffff;
+}
+
+.product-team-solution-section .plus-symbol,
+.product-team-solution-section .equal-symbol {
+  color: #f6c90e;
+}
+
+    .hero-text strong {
+      display: inline-block;
+      margin: 0 4px;
+      background: linear-gradient(90deg, #e0e0ff, #ffe0e0, #e0ffe0);
+      padding: 0 5px;
+      border-radius: 4px;
+    }
+
+    .hero-img {
+      max-height: 300px;
+    }
+
+    .brand-logo {
+      max-height: 60px;
+    }
+/* Our Offerings Section Colors */
+    .bg-light-green {
+      background-color: #e6f7f1;
+    }
+
+    .bg-light-orange {
+      background-color: #fff3e5;
+    }
+
+    .bg-light-purple {
+      background-color: #f8edfc;
+    }
+
+    .text-light-green-strong {
+      color: #00a86b;
+    }
+
+    .text-light-orange-strong {
+      color: #f4a261;
+    }
+
+    .text-light-purple-strong {
+      color: #9b5de5;
+    }
+    .heading-label {
+      font-weight: bold;
+      font-size: 1.25rem;
+      margin-bottom: 1rem;
+    }
+
+    .highlight-yellow {
+      color: #ffc107;
+    }
+
+    .box {
+      background-color: #f8f9fa;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    }
+
+    .plus-symbol, .equal-symbol {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #000;
+    }
+.scrolling-container {
+      overflow: hidden;
+      white-space: nowrap;
+      background-color: #f8f9fc;
+      padding: 2rem 0;
+    }
+
+    .scrolling-track {
+      display: inline-block;
+      animation: scroll-left 20s linear infinite;
+    }
+
+    .scrolling-track .badge {
+      margin-right: 1rem;
+    }
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.bg-lightblue {
+  background-color: #e6f7fb;
+}
+
+.fixed-bid-section {
+  background-color: #1d1b32;
+  border-radius: 12px;
+  overflow: hidden;
+  position: relative;
+}
+.testimonial-card {
+      position: relative;
+      padding-top: 2.5rem;
+    }
+    .testimonial-card .quote-icon {
+      position: absolute;
+      top: 1rem;
+      left: 1rem;
+      font-size: 3rem;
+      color: #FFDD57;
+      line-height: 1;
+    }
+    .testimonial-card .card-body {
+      padding: 1.5rem;
+    }
+    .testimonial-card .avatar {
+      width: 48px;
+      height: 48px;
+      object-fit: cover;
+    }
+    .product-team-solution-section {
+  background-color: #14122b;
+  color: #ffffff;
+}
+
+.table th, .table td {
+      vertical-align: middle;
+      text-align: center;
+    }
+    .bg-crayond {
+      background-color: #e8f5e9;
+    }
+    .highlight-crayond {
+      background-color: #c8e6c9;
+      font-weight: bold;}
+      
+  .highlight {
+    font-weight: 700;
+    display: inline-block;
+    padding: 0 4px;
+    border-radius: 4px;
+  }
+  .bg-purple { background-color: #e0d4ff; }
+  .bg-orange { background-color: #ffe5c2; }
+  .bg-pink   { background-color: #fdd6f0; }
+  .bg-green  { background-color: #ddf5e6; }
+  .bg-blue   { background-color: #dce7ff; }
+
