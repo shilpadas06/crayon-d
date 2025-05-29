@@ -125,7 +125,7 @@
 
     .scrolling-track {
       display: inline-block;
-      animation: scroll-left 20s linear infinite;
+      animation: scroll-left 60s linear infinite;
     }
 
     .scrolling-track .badge {
@@ -157,9 +157,9 @@
     }
     .testimonial-card .quote-icon {
       position: absolute;
-      top: 1rem;
+      top: -2rem;
       left: 1rem;
-      font-size: 3rem;
+      font-size: 10rem;
       color: #FFDD57;
       line-height: 1;
     }
@@ -200,4 +200,13 @@
 .bg-pink   { background-color: #fde0f3; }
 .bg-green  { background-color: #e8f8ee; }
 .bg-blue   { background-color: #e4ebf8; }
-
+.table th, .table td {
+      vertical-align: middle;
+      text-align: center;
+    }
+    .bg-crayond {
+      background-color: #e8f5e9;
+    }
+    .highlight-crayond {
+      background-color: #c8e6c9;
+      font-weight: bold;}
