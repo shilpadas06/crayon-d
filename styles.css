@@ -3,7 +3,7 @@
   background-color: #14122b;
   color: #ffffff;
 }
-
+ 
 .product-team-solution-section .heading-label {
   font-weight: 600;
   font-size: 1.2rem;
@@ -155,14 +155,7 @@
       position: relative;
       padding-top: 2.5rem;
     }
-    .testimonial-card .quote-icon {
-      position: absolute;
-      top: -2rem;
-      left: 1rem;
-      font-size: 10rem;
-      color: #FFDD57;
-      line-height: 1;
-    }
+    
     .testimonial-card .card-body {
       padding: 1.5rem;
     }
@@ -210,3 +203,40 @@
     .highlight-crayond {
       background-color: #c8e6c9;
       font-weight: bold;}
+     .button-group {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 100px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.7rem 0.7rem;
+  text-decoration: none;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+.btn-primary {
+  background-color: #665cd7;
+  color: #fff;
+  border: 1px solid transparent;
+}
+
+.btn-primary:hover {
+  background-color:#665cd7;
+}
+
+.btn-outline-primary {
+  background-color: transparent;
+  color: #665cd7;
+  border: 1px solid #665cd7;
+}
+
+.btn-outline-primary:hover {
+  background-color: #665cd7;
+  color: #fff;
+}
